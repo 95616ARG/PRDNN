@@ -1,0 +1,13 @@
+# PRDNN
+pysyrenn==1.1
+scipy==1.5.2
+# END
+numpy==1.17.2
+imageio==2.5.0
+Pillow==7.1.0
+# For building the package.
+setuptools==41.2.0
+wheel==0.33.6
+# For testing
+pytest==5.2.0
+coverage==4.5.4
