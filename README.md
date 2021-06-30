@@ -37,7 +37,7 @@ will need the following prerequisites:
    reproducible version of Python 3.7.4, which will be used by this project. It
    must be built with the relevant OpenSSL libraries installed.
 2. Install [Bazel](https://bazel.build) (we have tested on a variety of
-   versions, including 3.4.1).
+   versions, including 4.0.0).
 3. Install [Gurobi](https://www.gurobi.com) (we tested 9.0.1 and 9.0.2)
 5. If you want to patch the ImageNet model, see `ImageNet` below.
 6. In another session, clone [SyReNN](https://github.com/95616ARG/SyReNN) and
