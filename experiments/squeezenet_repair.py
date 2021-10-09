@@ -7,7 +7,7 @@ import numpy as np
 from pysyrenn import Network
 from pysyrenn import ReluLayer, NormalizeLayer
 from pysyrenn import FullyConnectedLayer, Conv2DLayer
-from prdnn import FTRepair
+from prdnn import ProvableRepair
 from experiments.experiment import Experiment
 from imagenet_helpers import read_imagenet_images
 
